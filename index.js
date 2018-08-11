@@ -23,8 +23,8 @@ function sayHiToGrandma(string){
   {
     return shout(string);
   }
-  else if(){
-    "I love you, too."
+  else if( string === "I love you, Grandma."){
+    return "I love you, too."
   }
   }
 }
